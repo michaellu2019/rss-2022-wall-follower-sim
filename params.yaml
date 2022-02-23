@@ -1,0 +1,7 @@
+scan_topic: "/scan"
+drive_topic: "/drive"
+desired_distance: 1.
+start_pose: [-4.0, -5.4, 0.0]
+velocity: 2
+end_pos: [-4.0, -5.0]
+side: 1
